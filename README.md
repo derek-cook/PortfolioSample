@@ -13,7 +13,7 @@ CTRL-C to stop the server.
 
 To enter the console:  `rails console`
 
-To exit: >`exit`
+To exit: `> exit`
 
 Some useful console commands:
 
