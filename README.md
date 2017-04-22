@@ -1,6 +1,6 @@
 # README
 
-This is a simple Ruby on Rails app that features authentication using the Devise Ruby gem.
+This is a simple Ruby on Rails app that features authentication using the [Devise Ruby gem](https://github.com/plataformatec/devise/blob/master/README.md). New features are regularly being added so look out for new changes.
 
 # PortfolioSample
 
